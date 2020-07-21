@@ -1,0 +1,10 @@
+User-agent:BaiduSpider
+Disallow: /css/*.*
+Disallow: /javaScript/*.*
+Disallow: /img/*.png$
+Disallow: /img/*.jpg$
+Disallow: /img/*.gif$
+Allow: /projects/*.*
+Allow: /index.html
+User-agent:YodaoBot
+Disallow: /
